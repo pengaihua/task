@@ -1,0 +1,7 @@
+appo\task\domain\UserEntity.class
+appo\task\enums\UserSexEnum.class
+appo\task\controller\UserController.class
+appo\task\Application.class
+appo\task\GreetingController.class
+appo\task\Greeting.class
+appo\task\mapper\UserMapper.class
