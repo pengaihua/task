@@ -2,3 +2,6 @@
 *.bak
 *.svn-base
 task/.svn/wc.db
+*.class
+*.class
+*.class
